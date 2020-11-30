@@ -1,1 +1,1 @@
-#Guess My Number - An interesting Game using Basics of JavaScript
+#Guess My Number - An interesting Game Developed using Basics of JavaScript
